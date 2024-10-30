@@ -3,7 +3,8 @@
 UNSBank SQL editor is a GUI utility that lets users perform SELECT, INSERT adn DELETE operations on data within the MySQL-based UNSBank database. Users will need a MySQL JDBC driver and a working UNSBank SQL database. 
 
 Here is the main interface for the utility:-
-![image](https://github.com/user-attachments/assets/1205e7a5-d5e7-444e-a2bc-9f2f1cf9e03b)
+
+![image](https://github.com/user-attachments/assets/ffdb07cf-4b22-4371-b1c1-dc012169a7e3)
 
 The user enters SQL code into the top-left panel, clicks the Execute Query button and then interacts with the result set shown in the top-right panel. Any errors, exceptions and comments from MySQL appear in the panel at the bottom of the screen, as shown in the images below:-
 
