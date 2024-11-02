@@ -325,9 +325,9 @@ public class UBSQLEditor extends javax.swing.JFrame {
 	display.println("event: " + action);
 			
 	if(evt.getActionCommand().equals("Execute SQL")) {
-            /* Determine if the query is a SELECT query or DDL
+            /* Determine if the query is a SELECT query or DML
                and route the query to the relevant method for the
-               query type, such as processSelect() or procesDDL()
+               query type.
             */
             display.println("Execute SQL pressed.");
             String text = sqlTextArea.getText();
